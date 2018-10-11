@@ -1,0 +1,74 @@
+body{
+	background: #C2C2C2;
+}
+.bannerguoj{
+	width: 1263px;
+	height: 471px;
+}
+.imgban{
+	width: 1263px;
+    height: 471px;
+    background-size: auto 471px;
+    background: url(../img/pRX04mx2QerOruvO6umVT1809262034_1920_471.jpg) center;
+}
+.guojiaguan{
+	width: 1263px;
+	height: 360px;
+	background: url(../img/bbbbb.jpg) center;
+	position: relative;
+}
+.guojiaguan a:nth-of-type(1){
+	position: absolute;
+	top: 4.55%;
+    left: 10.13%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(2){
+	position: absolute;
+	top: 4.55%;
+    left: 29.9%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(3){
+	position: absolute;
+	top: 4.55%;
+    left: 50%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(4){
+	position: absolute;
+	top: 4.55%;
+    left: 70%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(5){
+	position: absolute;
+	top: 50%;
+    left: 10.13%;
+    width: 19.71%;
+    height: 46.81%;
+}.guojiaguan a:nth-of-type(6){
+	position: absolute;
+	top: 50%;
+    left: 29.9%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(7){
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    width: 19.71%;
+    height: 46.81%;
+}
+.guojiaguan a:nth-of-type(8){
+	position: absolute;
+	top: 50%;
+    left: 70%;
+    width: 19.71%;
+    height: 46.81%;
+}

@@ -1,0 +1,230 @@
+body{background: #fff;}
+header{
+	border-bottom: 1px solid #e8e8ea;
+	position: relative;
+    height: 100px;
+    background: #fff;
+    z-index: 103;
+}
+.top{width: 1000px;
+    position: relative;
+    height: 100px;
+    margin: 0 auto;}
+.loginkaola{
+	position: absolute;
+	left: 0;
+	top: 20px;
+	width: 330px;
+	height: 65px;
+	line-height: 65px;
+	outline: none;
+	cursor: pointer;
+	background-size: auto 65px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-image: url(../img/70dee793-133d-4628-b374-b99e29aad157.png);
+}
+.right{
+	position: absolute;
+	left: 458px;
+    height: 100px;
+    width: 504px;
+}
+.m-loginCenter{
+	background-color: #f8f8f8;
+}
+.loginCenter{
+	position: relative;
+    width: 1000px;
+    height: 520px;
+    margin: 0 auto;
+}
+.loginCenter>a{
+	position: absolute;
+    left: 10px;
+    top: 154px;
+    width: 400px;
+    height: 203px;
+}
+.loginCenter-right{
+	position: absolute;
+    z-index: 2;
+    right: 40px;
+    top: 48px;
+    width: 350px;
+    border: 1px solid #eaeaea;
+    background-color: #fff;
+}
+.login-top{
+	position: relative;
+    width: 350px;
+    height: 52px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    line-height: 52px;
+    color: #333;
+}
+.login-top span:nth-of-type(1){
+	    float: left;
+    width: 175px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+      color: #e31436;
+}
+.login-top span:nth-of-type(2){
+	    position: absolute;
+    top: 17px;
+    left: 175px;
+    width: 0px;
+    height: 20px;
+    border-right: solid 1px #ddd;
+}
+.login-top span:nth-of-type(3){
+	float: left;
+    width: 175px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+}
+.login-center{
+	height: auto;
+	padding: 20px 40px 15px;
+}
+.center-center div{
+	    height: 34px;
+    line-height: 30px;
+    border-color: #d5d5d5;
+    border-radius: 2px;
+}
+.input{
+	height: 34px;
+    line-height: 30px;
+    border-color: #d5d5d5;
+    border-radius: 2px;
+	z-index: 19;
+    position: relative;
+    margin-bottom: 15px;
+    border: 1px solid #c5cddb;
+    background: #fff;
+    font-size: 12px;
+
+}
+.input i{
+	text-align: center;
+	margin-top: 2px;
+	float: left;
+	display: block;
+	width: 17px;
+	height: 18px;
+    padding: 0 11px; 
+   
+	}	
+.input:nth-of-type(1) .iconfont{
+	 font-size: 25px;
+	 padding-left: 8px;
+	 padding-right: 13px;
+}	
+.input input{
+	height: 30px;
+    margin: 2px 0;
+    position: relative;
+    float: left;
+    border: none;
+   
+}
+.bg{
+    height: 36px;
+    background-color: #e31436;
+    color: #fff;
+    border-radius: 2px;
+    line-height: 36px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+  	border: none; 
+}
+.bottom-login{
+	margin-top: 12px;
+	height: 20px;
+	line-height: 20px;
+	color: #999999;
+}
+.bottom-login span:nth-of-type(2){
+	float: right;
+}
+.check{
+	display:block;
+	margin-top: 8px;
+	float: left;
+	border: 1px solid #aaa;
+	width: 14px;
+	height: 14px;
+}
+.weixin{
+	width: 270px;
+    height: 20px;
+    padding: 10px 40px;
+    border-top: 1px solid #ddd;
+    background-color: #f8f8f8;
+    font-size: 14px;
+}
+.weixinicon{
+	background: url(../img/icon1.png) no-repeat;
+	width: 122px;
+	height: 22px;
+	background-position: -760px -401px;
+	float: left;
+}
+.weixin span{float: left;margin-left: 45px;}
+.weixin i{
+	margin-left: 4px;
+	margin-top: 2px;
+	float: left;
+	display: block;
+	width: 14px;
+	height: 22px;
+	background: url(../img/icon1.png) no-repeat;
+	background-position: -899px -405px;
+}
+.regWrap{
+	position: absolute;
+    z-index: 2;
+    right: 40px;
+    top: 48px;
+    width: 350px;
+    border: 1px solid #eaeaea;
+    background-color: #fff;
+}
+.regWrap-top{
+	    width: 270px;
+    padding: 0 40px;
+	    height: 52px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    line-height: 52px;
+    color: #333;
+    position: relative;
+}
+.txt-top{
+	    color: #e31436;
+    font-weight: bold;
+}
+.top-span{
+	float: right;
+    font-size: 12px;
+    cursor: pointer
+}
+.top-span>a{
+	color: #51b8f1;
+}
+.active{
+	display: block;
+}
+.error{
+	display: none;
+}

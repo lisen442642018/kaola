@@ -1,0 +1,606 @@
+{
+	"classify001":{
+		"name" : "★☆口碑爆款☆★",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "1.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "2.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "3.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "4.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "5.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "6.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "7.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "8.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "9.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "10.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify002":{
+		"name" : "99元任选2件",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "Naturie imju 薏仁美白保湿防晒化妆水 500毫升 我是大美人强推 【拍套餐享优惠】",
+				"src" : "11.webp",
+				"guide" :"我是大美人强推",
+				"price" : "￥55",
+				"oldPrice" : "￥159"
+			},
+			{
+				"id" : "shop02",
+				"name" : "unicharm 尤妮佳 Silcot省1/2化妆水化妆棉 40枚 四盒装",
+				"src" : "12.webp",
+				"guide" :"超人气省水化妆棉",
+				"price" : "￥62",
+				"oldPrice" : "￥99"
+			},
+			{
+				"id" : "shop03",
+				"name" : "【关晓彤同款】too cool for school 柔滑保湿鸡蛋泡泡洗颜慕斯 150毫升 【拍套餐享优惠】",
+				"src" : "13.webp",
+				"guide" :"鸡蛋牛奶的巧妙结合",
+				"price" : "￥55",
+				"oldPrice" : "￥148"
+			},
+			{
+				"id" : "shop04",
+				"name" : "SANA 莎娜 豆乳美肌美白保湿乳液 150毫升 超人气美白圣品",
+				"src" : "14.webp",
+				"guide" :"日本排名较前的药妆",
+				"price" : "￥59",
+				"oldPrice" : "￥105"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Purevivi 皇后卸妆水 500毫升 【拍套餐享优惠】",
+				"src" : "15.webp",
+				"guide" :"四效合一 温和卸妆",
+				"price" : "￥50",
+				"oldPrice" : "￥78"
+			},
+			{
+				"id" : "shop06",
+				"name" : "MUJI 无印良品 舒柔化妆水 敏感肌用 滋润型 200毫升",
+				"src" : "16.webp",
+				"guide" :"温和滋润 补水保湿",
+				"price" : "￥65",
+				"oldPrice" : "￥74"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "17.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "18.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "19.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "20.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify003":{
+		"name" : "大牌满减",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "21.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "22.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "23.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "24.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "25.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "26.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "27.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "28.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "29.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "30.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify004":{
+		"name" : "美容彩妆",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "31.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "32.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "33.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "34.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "35.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "36.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "37.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "38.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "39.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "40.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify005":{
+		"name" : "家居个护",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "41.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "42.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "43.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "44.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "45.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "46.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "47.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "48.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "49.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "50.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify006":{
+		"name" : "母婴儿童",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "51.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "52.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "53.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "54.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "55.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "56.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "57.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "58.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "59.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "60.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	},
+	"classify007":{
+		"name" : "美食保健",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "【网易自营 品牌授权】妆蕾 RAY 金色蚕丝面膜 10片/盒 .net防伪查验",
+				"src" : "61.webp",
+				"guide" :"RAY 蚕丝面膜",
+				"price" : "￥109",
+				"oldPrice" : "￥188"
+			},
+			{
+				"id" : "shop02",
+				"name" : "【自营 两盒装】JMsolution jm水光蜂蜜面膜 10片/盒 保湿滋润补水",
+				"src" : "62.webp",
+				"guide" :"提拉紧致，去除角质",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+				"src" : "63.webp",
+				"guide" :"人见人爱，超高人气",
+				"price" : "￥109",
+				"oldPrice" : "￥150"
+			},
+			{
+				"id" : "shop04",
+				"name" : "【2件装】SHISEIDO 资生堂 UNO 男士洗面奶 黑炭控油型 130克【拍套餐享优惠】",
+				"src" : "64.webp",
+				"guide" :"清爽洁净皮肤污垢",
+				"price" : "￥45",
+				"oldPrice" : "￥220"
+			},
+			{
+				"id" : "shop05",
+				"name" : "【自营 两盒装 报销税费】JMsolution 急救补水针剂面膜 10片/盒【拍套餐享优惠】",
+				"src" : "65.webp",
+				"guide" :"肌肤救急",
+				"price" : "￥132",
+				"oldPrice" : "￥392"
+			},
+			{
+				"id" : "shop06",
+				"name" : "DoMeCare 欣兰 黑里透白冻膜 225克 美白清洁 毛孔吸尘器",
+				"src" : "66.webp",
+				"guide" :"毛孔吸尘器",
+				"price" : "￥89",
+				"oldPrice" : "￥198"
+			},
+			{
+				"id" : "shop07",
+				"name" : "【自营 三瓶装 报销税费】Jmsolution 珍珠全身防水防晒喷雾SPF50隔离清爽 180毫升",
+				"src" : "67.webp",
+				"guide" :"珍珠般透亮 快速喷雾",
+				"price" : "￥105",
+				"oldPrice" : "￥294"
+			},
+			{
+				"id" : "shop08",
+				"name" : "Ryo 吕 棕吕（原黄吕）防脱固发滋养洗发水 500毫升/瓶 掉发girl救星",
+				"src" : "68.webp",
+				"guide" :"草本精华 赶走脱发烦恼",
+				"price" : "￥47",
+				"oldPrice" : "￥69"
+			},
+			
+			{
+				"id" : "shop09",
+				"name" : "BIODERMA 贝德玛 舒妍温和保湿卸妆水 500毫升 粉水 敏感肌用",
+				"src" : "69.webp",
+				"guide" :"只有你能脱下我的面具伪装",
+				"price" : "￥109",
+				"oldPrice" : "￥225"
+			},
+			{
+				"id" : "shop10",
+				"name" : "【魏璎珞同款色号】MAC 魅可 时尚唇膏 3克",
+				"src" : "70.webp",
+				"guide" :"mac唇膏不一样的色彩体验",
+				"price" : "￥135",
+				"oldPrice" : "￥170"
+			}
+		]
+	}
+
+	
+}

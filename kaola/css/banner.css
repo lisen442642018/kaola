@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0;}
+        .bannerImg,ol{ list-style: none;}
+        .banner{
+            width: 1263px;
+            height: 400px;
+            
+            overflow: hidden;
+            position: relative;
+        }
+        .bannerImg{
+        	position:relative;
+        }
+        .bannerImg li{
+        	position:absolute;
+        	top:0;
+        	left:0;
+        }
+        .bannerImg li img{width: 1263px;height: 400px;}
+        ol{
+            position: absolute;
+            left: 550px;
+            bottom: 10px;
+            width: 150px;
+            height: 30px;
+            background: #000000;
+            opacity: 0.3;
+            border-radius: 24px;
+        }
+        ol li{
+            float: left;
+            width: 10px;
+            height: 10px;
+            margin:  10px;
+            text-align: center;
+            border-radius: 50%;
+            cursor: default;
+            background-color: #fff;
+        }
+        ol li.current{
+            background-color: darkred;
+        }

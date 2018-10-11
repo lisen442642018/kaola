@@ -1,0 +1,131 @@
+.foot {
+	width: 1263px;
+	height: 564px;
+}
+
+.foot-Top {
+	width: 1263px;
+	height: 411px;
+	background: #fff;
+}
+
+.foot-TopWrap {
+	width: 1100px;
+	height: 410px;
+	margin: 0 auto;
+}
+
+.foot-Top-top {
+	width: 1100px;
+	padding: 49px 0;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.foot-Top-bottom {
+	width: 1100px;
+	height: 263px;
+	padding: 45px 0 90px;
+}
+
+.foot-ul {
+	width: 1100px;
+	height: 48px;
+}
+
+.foot-ul>li {
+	float: left;
+	width: 233px;
+	margin-left: 42px;
+}
+
+.yuan {
+	float: left;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	border: 2px solid #d6d6d6;
+	text-align: center;
+	line-height: 44px;
+	font-size: 20px;
+	font-weight: bold;
+	display: inline-block;
+	margin-right: 12px;
+}
+
+.font {
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+	line-height: 22px;
+}
+
+.baozhang {
+	font-size: 14px;
+	line-height: 22px;
+	display: block;
+}
+.foot-Top-bottom-ul{
+	width: 1100px;
+}
+.foot-li{
+	float: left;
+	    width: 218px;
+    padding-right: 40px;
+    padding-left: 0;
+    margin-right: 150px;
+}
+.foot-li>a{
+	    display: block;
+    width: 220px;
+    height: 43px;
+    line-height: 45px;
+    margin-bottom: 20px;
+    outline: none;
+    cursor: pointer;
+    z-index: 9;
+    background: url(../img/btkl.png) no-repeat;
+    background-size:220px 43px ;
+}
+.foot-Top-bottom-ul>li{    float: left;
+    width: 110px;
+    padding: 0 0 0 21px;
+    height: 128px;}
+.foot-Top-bottom-ul>li>dl>dt{
+	    margin: -4px 0 10px;
+	    font-size: 18px;
+}
+.foot-Top-bottom-ul>li>dl>dd{
+	height: 29px;
+}
+.foot-Top-bottom-ul>li>dl>dd>a{
+	line-height: 29px;
+}
+.foot-Bottom{
+	    position: relative;
+    padding: 20px 0;
+    background: #333;
+    line-height: 26px;
+    text-align: center;   
+    color: #C2C2C2;     
+}
+.foot-Bottom a{color: #C2C2C2;}
+.m-license{
+	margin-left: 20px;
+	    color: #c2c2c2;
+}
+.m-license-1 img{
+	vertical-align: middle;
+    display: inline-block;
+        margin-top: -2px;
+        
+}
+.foot-b-b{
+	text-align: center;
+	line-height: 26px;
+}
+.foot-b-b img{    height: 30px;
+    margin: 5px 15px 0 0;
+        vertical-align: middle;
+    display: inline-block;
+    }
+
